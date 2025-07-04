@@ -14,8 +14,8 @@
 | -- | -- |
 | HTML5 | 100% |
 | CSS | 100% |
-| JavaScript | 86% |
-| React | 90% |
+| JavaScript | 90% |
+| React | 95% |
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdimkh1384&show_icons=true&theme=transparent)
