@@ -17,7 +17,7 @@
 | -- | -- |
 | HTML5 | 100% |
 | CSS | 100% |
-| JavaScript | 94% |
+| JavaScript | 97% |
 | React | 100% |
 | Next | 60% |
 | TailwindCSS | 100% |
