@@ -19,7 +19,7 @@
 | CSS | 100% |
 | JavaScript | 97% |
 | React | 100% |
-| Next | 60% |
+| Next | 80% |
 | TailwindCSS | 100% |
 ---
 
