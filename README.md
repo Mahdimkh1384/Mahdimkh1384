@@ -21,10 +21,10 @@
 | CSS | 100% |
 | JavaScript | 100% |
 | React | 100% |
-| Next | 94% |
+| Next | 96% |
 | TailwindCSS | 100% |
-| Vue | 84% |
-| Nuxt | 80% |
+| Vue | 90% |
+| Nuxt | 88% |
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdimkh1384&show_icons=true&theme=transparent)
