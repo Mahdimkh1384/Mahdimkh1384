@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Mahdi Marami 🖐️</h1>
 <h3> Front-End Developer 👨‍💻</h3>
 
-> I've been working in the front-end field for about a year and a half and I love the challenges.
+> I've been working in the field of front-end development for about two and a half years, and I love the challenges it offers.
 
 ---
 # Skills ✅
